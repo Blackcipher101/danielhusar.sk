@@ -33,3 +33,7 @@ module.exports = {
     },
   ],
 }
+
+module.exports = {
+  pathPrefix: "/danielhusar.sk",
+}
